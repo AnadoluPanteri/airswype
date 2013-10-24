@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/SplashScreen.qml</file>
+        <file>qml/Main.qml</file>
+        <file>qml/Button.qml</file>
+        <file>qml/CountDownView.qml</file>
+        <file>qml/Menu.qml</file>
+        <file>qml/MovingCloud.qml</file>
+        <file>qml/InfoView.qml</file>
+        <file>qml/TargetView.qml</file>
+        <file>qml/ResultView.qml</file>
+        <file>qml/Sun.qml</file>
+        <file>gfx/back_button.png</file>
+        <file>gfx/retry_button.png</file>
+        <file>gfx/next_button.png</file>
+        <file>gfx/airswype_splashscreen.png</file>
+        <file>gfx/menu_cloud.png</file>
+        <file>gfx/background.png</file>
+        <file>gfx/airswype_logo.png</file>
+        <file>gfx/close_button.png</file>
+        <file>gfx/bg_cloud1.png</file>
+        <file>gfx/bg_cloud2.png</file>
+        <file>gfx/count_1.png</file>
+        <file>gfx/count_2.png</file>
+        <file>gfx/count_3.png</file>
+        <file>gfx/go_cloud.png</file>
+        <file>gfx/bottom_cloud1.png</file>
+        <file>gfx/bottom_cloud2.png</file>
+        <file>gfx/hold_still.png</file>
+        <file>gfx/particle.png</file>
+        <file>gfx/sun.png</file>
+        <file>gfx/background_shine.png</file>
+        <file>gfx/done_button.png</file>
+        <file>gfx/cloud_small1.png</file>
+        <file>gfx/cloud_small2.png</file>
+        <file>gfx/cloud_small3.png</file>
+        <file>gfx/cloud_small4.png</file>
+        <file>gfx/puck.png</file>
+    </qresource>
+</RCC>
